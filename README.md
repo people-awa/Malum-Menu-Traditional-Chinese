@@ -5,7 +5,7 @@ Malum Menu的繁體中文漢化
 
 # 如何使用？
 
-- 将已下载好的dll放入` BepInEx/plugins ` 里 （我们未提供BepInEx本体因为文件太大放不下）
+- 将已下载好的dll放入 [Among Us/BepInEx/plugins] 里 （我们未提供BepInEx本体因为文件太大放不下）
 - 启动游戏
 
 ---
