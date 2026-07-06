@@ -3,10 +3,11 @@ Malum Menu的繁體中文漢化
 
 ---
 
-# 如何使用？
+# 安裝教程
 
+- 將下載好的MM-Traditional.Chinese-3.2.0.dll 放入  [Among Us/BepInEx/plugins ] 里用於替換原MalumMenu的dll文件。
 - 将已下载好的dll放入 [Among Us/BepInEx/plugins] 里 （我们未提供BepInEx本体因为文件太大放不下）
-- 启动游戏
+- 啓動游戲後即可游玩。
 
 ---
 
