@@ -6,12 +6,12 @@
 # 安裝教程
 
 - 將下載好的MM-Traditional.Chinese-3.2.0.dll 放入
-- 
+```
 ├── Among Us
 ├── BepInEx
 ├── plugins
 └── MM-Traditional.Chinese-3.2.0.dll
-
+```
 - 用於替換原MalumMenu的dll文件（我們未提供BepInEx本體文件，因爲這樣會超過25MB限制）。
 - 安裝完完成後即可啓動游戲後即可游玩。
 
