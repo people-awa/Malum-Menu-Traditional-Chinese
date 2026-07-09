@@ -12,7 +12,7 @@
           └── 📁plugins
                └── 📄MM-Traditional-Chinese-3.2.0.dll
 ```
-- 用於替換原AmongUsRevamped的dll文件（我們未提供BepInEx本體文件，因爲這樣會超過25MB限制）。
+- 用於替換原Malum Menu的dll文件（我們未提供BepInEx本體文件，因爲這樣會超過25MB限制）。
 - 安裝完成後即可啓動游戲後即可游玩。
 
 ---
